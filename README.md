@@ -1,5 +1,4 @@
-# Sprite-Fight
-
+# <p align="center"> 🚀 Sprite-Fight </p>
 
 ## 🕹️ Play Online
 
